@@ -27,3 +27,6 @@ Once the system finds a match or determines the closest match based on similarit
 Face detection and recognition systems have various applications, including security systems, surveillance, biometric authentication, and photo organization. However, it's essential to consider privacy and ethical implications when deploying such systems, particularly regarding data collection and usage.
 
 ![image](https://github.com/MdSaifurRahman/Face-Detection-and-Recognition/assets/100013081/9d8ba7d2-a6e6-4dde-a2a0-0aee9df0c46e) Haar Cascade classifier working
+
+## Dataset Used :- https://www.kaggle.com/datasets/vishesh1412/celebrity-face-image-dataset
+## HaarCascade File :- https://github.com/opencv/opencv/tree/master/data/haarcascades
